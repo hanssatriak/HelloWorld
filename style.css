@@ -1,0 +1,14 @@
+b{
+    color: green;
+    text-decoration: antiquewhite;
+    font-size: 30px;
+}
+
+li{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.welcome{
+    background-color: pink;
+}
